@@ -3,4 +3,7 @@
 
 1. Create React App using vite
 
-    
+   npm create vite@4.1.0 - for create react project via vite + javascript
+
+2. 
+   
